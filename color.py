@@ -1,0 +1,23 @@
+
+Berry_Red = '#B8255F'
+Light_Blue = '#96C3EB'
+Red = '#DB4035'
+Blue = '#4073FF'
+Orange = '#FF9933'
+Grape = '#884DFF'
+Yellow = '#FAD000'
+Violet = '#AF38EB'
+Olive_Green = '#AFB83B'
+Lavender = '#EB96EB'
+Lime_Green = '#7ECC49'
+Magenta = '#E05194'
+Green = '#299438'
+Salmon = '#FF8D85'
+Mint_Green = '#6ACCBC'
+Charcoal = '#808080'
+Teal = '#158FAD'
+Grey = '#B8B8B8'
+Sky_Blue = '#14AAFS'
+Taupe = '#CCAC93'
+
+Colors = [Berry_Red, Light_Blue, Orange, Green]
